@@ -155,6 +155,7 @@ class _HomePageState extends State<HomePage> {
           moveRight();
         }
       },
+      //gesture code
       child: GestureDetector(
         onTap: startGame,
         child: Scaffold(
