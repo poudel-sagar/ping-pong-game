@@ -49,7 +49,7 @@ class _HomePageState extends State<HomePage> {
              MyBrick(x:0,y:-0.9),
 
           
-             //lower brick
+             //lower brick is here
               MyBrick(x:0,y:0.9),
               
               //ball
