@@ -45,7 +45,7 @@ class _HomePageState extends State<HomePage> {
                 //gameHaStarted:gameHaStarted
               ),
               
-             //upper brick starts here
+             //upper brick starts heree
              MyBrick(x:0,y:-0.9),
 
           
